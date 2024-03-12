@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jyang496.github.io/portfolio/static/css/main.9548f6a6.css",
-    "main.js": "/jyang496.github.io/portfolio/static/js/main.a8f00421.js",
+    "main.js": "/jyang496.github.io/portfolio/static/js/main.96d069fa.js",
     "index.html": "/jyang496.github.io/portfolio/index.html",
     "main.9548f6a6.css.map": "/jyang496.github.io/portfolio/static/css/main.9548f6a6.css.map",
-    "main.a8f00421.js.map": "/jyang496.github.io/portfolio/static/js/main.a8f00421.js.map"
+    "main.96d069fa.js.map": "/jyang496.github.io/portfolio/static/js/main.96d069fa.js.map"
   },
   "entrypoints": [
     "static/css/main.9548f6a6.css",
-    "static/js/main.a8f00421.js"
+    "static/js/main.96d069fa.js"
   ]
 }
