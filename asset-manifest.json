@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/jyang496.github.io/portfolio/static/css/main.9548f6a6.css",
-    "main.js": "/jyang496.github.io/portfolio/static/js/main.c86c485a.js",
-    "index.html": "/jyang496.github.io/portfolio/index.html",
-    "main.9548f6a6.css.map": "/jyang496.github.io/portfolio/static/css/main.9548f6a6.css.map",
-    "main.c86c485a.js.map": "/jyang496.github.io/portfolio/static/js/main.c86c485a.js.map"
+    "main.css": "/jyang496.github.io/static/css/main.9548f6a6.css",
+    "main.js": "/jyang496.github.io/static/js/main.c86c485a.js",
+    "index.html": "/jyang496.github.io/index.html",
+    "main.9548f6a6.css.map": "/jyang496.github.io/static/css/main.9548f6a6.css.map",
+    "main.c86c485a.js.map": "/jyang496.github.io/static/js/main.c86c485a.js.map"
   },
   "entrypoints": [
     "static/css/main.9548f6a6.css",
