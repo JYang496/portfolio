@@ -18,7 +18,7 @@ export const Main = () => {
 
                 <div className="row">
                     <div className="col-lg-4" data-aos="fade-right">
-                        <img src="https://github.com/JYang496/portfolio/blob/main/src/img/profile-img.png?raw=true" className="img-fluid" alt=""/>
+                        <img src="https://github.com/JYang496/portfolio/blob/publish/src/img/profile-img.png?raw=true" className="img-fluid" alt=""/>
                     </div>
                     <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
                         <h3>Fullstack Developer.</h3>
