@@ -40,7 +40,7 @@ export const Main = () => {
                                 <ul>
                                     <li><i className="bi bi-chevron-right"></i> <strong>Age:</strong> <span>28</span>
                                     </li>
-                                    <li><i className="bi bi-chevron-right"></i> <strong>PhEmailone:</strong>
+                                    <li><i className="bi bi-chevron-right"></i> <strong>Email:</strong>
                                         <span>jimmyy9612@gmail.com</span></li>
                                 </ul>
                             </div>
@@ -113,76 +113,48 @@ export const Main = () => {
 
                 <div className="section-title">
                     <h2>Resume</h2>
-                    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit
-                        sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias
-                        ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
                 </div>
 
                 <div className="row">
                     <div className="col-lg-6" data-aos="fade-up">
-                        <h3 className="resume-title">Sumary</h3>
-                        <div className="resume-item pb-0">
-                            <h4>Alex Smith</h4>
-                            <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing
-                                and developing user-centered digital/print marketing material from initial concept to
-                                final, polished deliverable.</em></p>
-                            <ul>
-                                <li>Portland par 127,Orlando, FL</li>
-                                <li>(123) 456-7891</li>
-                                <li>alice.barkley@example.com</li>
-                            </ul>
-                        </div>
-
                         <h3 className="resume-title">Education</h3>
                         <div className="resume-item">
-                            <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                            <h5>2015 - 2016</h5>
-                            <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                            <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero
-                                voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
-                        </div>
-                        <div className="resume-item">
-                            <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                            <h5>2010 - 2014</h5>
-                            <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                            <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel
-                                ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae
-                                consequatur neque etlon sader mart dila</p>
+                            <h4>BSc, Honors in Computer Science &amp; Minor in Game Developing</h4>
+                            <h5>2017 - 2023</h5>
+                            <p><em>University of Western Ontario, London, ON, Canada</em></p>
                         </div>
                     </div>
                     <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
                         <h3 className="resume-title">Professional Experience</h3>
                         <div className="resume-item">
-                            <h4>Senior graphic design specialist</h4>
-                            <h5>2019 - Present</h5>
-                            <p><em>Experion, New York, NY </em></p>
+                            <h4>Fullstack Developer</h4>
+                            <h5>2023 - 2024</h5>
+                            <p><em>M2W IT Solutions, Toronto, ON</em></p>
                             <ul>
-                                <li>Lead in the design, development, and implementation of the graphic, layout, and
-                                    production communication materials
+                                <li>Effectively resolved issues and provided feedback within an Agile, Scrum framework,
+                                    utilizing JIRA and Kanban for efficient task management
                                 </li>
-                                <li>Delegate tasks to the 7 members of the design team and provide counsel on all
-                                    aspects of the project.
+                                <li>Utilized Redis and the Bull task management tool to enhance service stability,
+                                    preventing overload
                                 </li>
-                                <li>Supervise the assessment of all graphic materials in order to ensure quality and
-                                    accuracy of the design
+                                <li>Created the e-commerce platform by using React, React-Redux, with (Express & NodeJS)
+                                    as REST API backend to talk to database
                                 </li>
-                                <li>Oversee the efficient use of production project budgets ranging from $2,000 -
-                                    $25,000
+                                <li>Communicated with back-end such as search, get, post etc. using Fetch and Axios
                                 </li>
                             </ul>
                         </div>
                         <div className="resume-item">
-                            <h4>Graphic design specialist</h4>
-                            <h5>2017 - 2018</h5>
-                            <p><em>Stepping Stone Advertising, New York, NY</em></p>
+                            <h4>Quality Assurance</h4>
+                            <h5>2021 - 2022</h5>
+                            <p><em>Quality Assurance, London, ON</em></p>
                             <ul>
-                                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations,
-                                    and advertisements).
+                                <li>Designed QA Test Scenarios with BDD to help determine API testing
+                                    and end-to-end transactions for company internal services
                                 </li>
-                                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                                <li>Created 4+ design presentations and proposals a month for clients and account
-                                    managers
+                                <li>Built QA Testing Automations for business services and microservices in CI/CD environment</li>
+                                <li>Created observation panels in Grafana to review automation reports to visualize results</li>
+                                <li>Improved the performance of automation and reduced the spending time
                                 </li>
                             </ul>
                         </div>
@@ -220,24 +192,6 @@ export const Main = () => {
                         <h4 className="title"><a href="/">Sed ut perspiciatis</a></h4>
                         <p className="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
                             dolore eu fugiat nulla pariatur</p>
-                    </div>
-                    <div className="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-                        <div className="icon"><i className="bi bi-binoculars"></i></div>
-                        <h4 className="title"><a href="/">Magni Dolores</a></h4>
-                        <p className="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                            officia deserunt mollit anim id est laborum</p>
-                    </div>
-                    <div className="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-                        <div className="icon"><i className="bi bi-brightness-high"></i></div>
-                        <h4 className="title"><a href="/">Nemo Enim</a></h4>
-                        <p className="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                            blanditiis praesentium voluptatum deleniti atque</p>
-                    </div>
-                    <div className="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-                        <div className="icon"><i className="bi bi-calendar4-week"></i></div>
-                        <h4 className="title"><a href="/">Eiusmod Tempor</a></h4>
-                        <p className="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero
-                            tempore, cum soluta nobis est eligendi</p>
                     </div>
                 </div>
 
